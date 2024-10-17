@@ -1,4 +1,4 @@
-## Hi there 👋
+[![An image of @qandle's Holopin badges](https://holopin.me/qandle)](https://holopin.io/@qandle)
 
 <!--
 **Qandle/Qandle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
